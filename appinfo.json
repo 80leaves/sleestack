@@ -1,7 +1,7 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "configurable"
     ],
     "companyName": "mailtoalex86@googlemail.com",
     "longName": "Sleestack",
