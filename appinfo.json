@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mailtoalex86@googlemail.com",
+    "longName": "Sleestack",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Sleestack",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "3a298b2f-7b1f-4520-a242-cbbb35b013b1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
